@@ -1,4 +1,4 @@
-## 2.4.0-dev
+## 2.4.0
 
 - Use logger from `package:build` to emit Sass logs.
 - Add the `silenceDeprecations`, `futureDeprecations` and `fatalDeprecations`
