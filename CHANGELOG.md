@@ -1,3 +1,7 @@
+## 2.4.0+1
+
+- Move package to `dartcommunity.dev` publisher, no code changes.
+
 ## 2.4.0
 
 - Use logger from `package:build` to emit Sass logs.
