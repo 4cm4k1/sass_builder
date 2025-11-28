@@ -1,7 +1,13 @@
 name: sass_builder
 version: 2.4.0+1
 repository: https://github.com/dart-league/sass_builder
-description: Transpile sass files using the "build" package.
+description: Transpile sass files using "build_runner" for webdev and jaspr-based apps.
+
+topics:
+  - sass
+  - css
+  - webdev
+  - build-runner
 
 environment:
   sdk: ^3.6.0
